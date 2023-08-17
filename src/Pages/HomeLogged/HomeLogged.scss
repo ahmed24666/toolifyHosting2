@@ -1,0 +1,108 @@
+.HomeLogged {
+  .head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 100px;
+    gap: 30px;
+    @media (max-width: 767px) {
+      gap: 15px;
+      padding-top: 50px;
+    }
+    div {
+      h1 {
+        text-transform: capitalize;
+        font-size: 31px;
+      }
+    }
+    p {
+      font-size: 28px;
+      font-weight: 300;
+      letter-spacing: 1px;
+      text-align: center;
+      width: 80%;
+      @media (max-width: 767px) {
+        font-size: 22px;
+        width: 90%;
+      }
+    }
+  }
+  .add {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px;
+    padding: 100px;
+    justify-content: center;
+    @media (max-width: 767px) {
+      padding: 25px;
+      gap: 25px;
+    }
+
+    .card {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 50px;
+      flex-direction: column;
+      border: double 4px transparent;
+      border-radius: 5px;
+      background-image: linear-gradient(white, white),
+        linear-gradient(#961062, #0e5f74);
+      background-origin: border-box;
+      background-clip: content-box, border-box;
+      height: 300px;
+      h1 {
+        font-size: 30px;
+        padding: 30px 0px;
+      }
+      .icon {
+        padding: 0 0 30px 0px;
+        cursor: pointer;
+      }
+      .field {
+        width: 500px;
+        @media (max-width: 767px) {
+          width: 300px;
+        }
+        padding: 0 15px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        input {
+          font-size: 16px;
+          width: 90%;
+          padding: 10px 15px;
+          color: #ababab;
+          border: 1px solid #ababab;
+          border-radius: 2px;
+          &:focus {
+            outline: none;
+            caret-color: #961062;
+          }
+        }
+        .btn {
+          width: 90%;
+          padding: 10px 15px;
+          color: white;
+          border-radius: 2px;
+          background-size: 300% 100%;
+          background-image: linear-gradient(
+            to right,
+            #961062,
+            #0e5f74,
+            #961062,
+            #0e5f74
+          );
+          &:hover {
+            background-position: 100% 0;
+            transition: all 0.6s ease-in-out;
+          }
+          cursor: pointer;
+          text-align: center;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "Home": "الرئيسيه", 
+    "Plugins": "باقاتنا", 
+    "About us": "تواصل معنا", 
+    "Contact us": "من نحن", 
+    "Packages": "الاضافات",
+    "startNow": "ابدأ الان" 
+  },
+  "navlogged": {
+    "Home": "Home",
+    "Integration": "Integration",
+    "Websites": "Websites",
+    "Packages": "Packages",
+    "startNow": "START NOW"
+  },
+  "tabs": {
+    "About us": "من نحن", 
+    "All in one": "الكل في واحد", 
+    "Our partners": "شركاءنا", 
+    "contact us": "تواصل معنا"
+  },
+  "about": {
+    "h1": "نحن شركة سوفت وير متخصصه،", 
+    "p1": "احنا شركة برمجه متخصصه في تطوير الاضافات", 
+    "p2": "خبرتنا تكمن في تطوير اضافه واحده تجمع اكثر من اختيار علشان نزود مبيعاتك ونقلل مصروفاتك" 
+  },
+  "all": {
+    "p": "نحن شركة سوفت وير متخصصه،", 
+    "h11": "احنا شركة برمجه متخصصه في تطوير الاضافات", 
+    "h12": "خبرتنا تكمن في تطوير اضافه واحده تجمع اكثر من اختيار علشان نزود مبيعاتك ونقلل مصروفاتك" ,
+    "h13": "خبرتنا تكمن في تطوير اضافه واحده تجمع اكثر من اختيار علشان نزود مبيعاتك ونقلل مصروفاتك", 
+    "p11": "خبرتنا تكمن في تطوير اضافه واحده تجمع اكثر من اختيار علشان نزود مبيعاتك ونقلل مصروفاتك", 
+    "p12": "خبرتنا تكمن في تطوير اضافه واحده تجمع اكثر من اختيار علشان نزود مبيعاتك ونقلل مصروفاتك", 
+    "p13": "خبرتنا تكمن في تطوير اضافه واحده تجمع اكثر من اختيار علشان نزود مبيعاتك ونقلل مصروفاتك"
+  },
+  "partners": {
+    "p": "نحن شركة سوفت وير متخصصه،"
+  },
+  "contact": {
+    "h1": "نحن شركة سوفت وير متخصصه،", 
+    "p": "احنا شركة برمجه متخصصه في تطوير الاضافات",
+    "fn": "احنا شركة برمجه متخصصه في تطوير الاضافات",
+    "ln": "احنا شركة برمجه متخصصه في تطوير الاضافات",
+    "email": "احنا شركة برمجه متخصصه في تطوير الاضافات",
+    "msg": "احنا شركة برمجه متخصصه في تطوير الاضافات"
+  },
+  "packages": {
+    "head": "Need a quote ? Do not hesitate To contact us .",
+    "price1": "Lorem Ipsum is simply dummy text of the printing and Lorem Lorem Ipsum is simply Ipsum is simply dummy text of the printing and Lorem Ipsum is simply dummy text of",
+    "price2": "First Name",
+    "price3": "Last Name",
+    "pound": "Email",
+    "month": "Month",
+    "h3f1": "Drop your message",
+    "h3f2": "Drop your message",
+    "h3f3": "Drop your message",
+    "h3f4": "Drop your message",
+    "h3f5": "Drop your message", 
+    "h3f6": "Drop your message",
+    "h3s1": "Drop your message",
+    "h3s2": "Drop your message",
+    "h3s3": "Drop your message",
+    "h3s4": "Drop your message",
+    "h3s5": "Drop your message", 
+    "h3s6": "Drop your message",
+    "h3t1": "Drop your message",
+    "h3t2": "Drop your message",
+    "h3t3": "Drop your message",
+    "h3t4": "Drop your message",
+    "h3t5": "Drop your message", 
+    "h3t6": "Drop your message",
+    "startNow": "START NOW"
+  },
+  "login": {
+    "h1": "Welcome to",
+    "span": "TOOLIIFY",
+    "p": "get all in one plugins to help you improve your e-commerce and look better.",
+    "username": "Username",
+    "password": "Password",
+    "email": "Email",
+    "first name": "First name",
+    "last name": "Last name",
+    "confirm password": "Confirm Password",
+    "username h": "Enter your username",
+    "password h": "Enter your password",
+    "email h": "Enter your Email",
+    "first name h": "Enter your First name",
+    "last name h": "Enter your Last name",
+    "login": "Login",
+    "don't": "Don’t have an account?",
+    "signup": "Sign Up"
+  },
+  "addWebsites": {
+    "head": "Welcome to",
+    "h11": "Welcome to",
+    "h12": "Welcome to",
+    "h13": "Welcome to",
+    "p": "get all in one plugins to help you improve your e-commerce and look better.",
+    "add": "Add"
+  }
+}

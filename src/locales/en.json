@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "Home": "Home",
+    "Plugins": "Plugins",
+    "About us": "About us",
+    "Contact us": "Contact us",
+    "Packages": "Packages",
+    "startNow": "START NOW"
+  },
+  "navlogged": {
+    "Home": "Home",
+    "Integration": "Integration",
+    "Websites": "Websites",
+    "Packages": "Packages",
+    "startNow": "START NOW"
+  },
+  "tabs": {
+    "About us": "About us",
+    "All in one": "All in one",
+    "Our partners": "Our partners",
+    "contact us": "contact us"
+  },
+  "about": {
+    "h1": "We are a specialized software company,",
+    "p1": "focusing on plugin development.",
+    "p2": "Our expertise lies in creating all-in-one plugin at an affordable cost to boost your sales and upsell potential"
+  },
+  "all": {
+    "p": "Our all-in-one app is designed to help merchants increase sales and improve the customer experience on their online stores. With a range of features and integrations, our app provides a user-friendly solution for businesses of all sizes.",
+    "h11": "All in one",
+    "h12": "Money Savings",
+    "h13": "Integration",
+    "p11": "you can find all apps in one place without searching too much",
+    "p12": "Our app is all in one plugin for one price, that help you to save a lot of money.",
+    "p13": "Integrated with all website’s builder, allowing merchants to manage their store and app from one app."
+  },
+  "partners": {
+    "p": "Lorem Ipsum is simply dummy text of the printing and Lorem Lorem Ipsum is simply Ipsum is simply dummy text of the printing and Lorem Ipsum is simply dummy text of"
+  },
+  "contact": {
+    "h1": "Need a quote ? Do not hesitate To contact us .",
+    "p": "Lorem Ipsum is simply dummy text of the printing and Lorem Lorem Ipsum is simply Ipsum is simply dummy text of the printing and Lorem Ipsum is simply dummy text of",
+    "fn": "First Name",
+    "ln": "Last Name",
+    "email": "Email",
+    "msg": "Drop your message"
+  },
+  "packages": {
+    "head": "Our Packages",
+    "price1": "992",
+    "price2": "170",
+    "price3": "1900",
+    "pound": "SAR",
+    "month": "/Month",
+    "h3f1": "Lorem Ipsum is simply.",
+    "h3f2": "Lorem Ipsum is simply.",
+    "h3f3": "Lorem Ipsum is simply.",
+    "h3f4": "Lorem Ipsum is simply.",
+    "h3f5": "Lorem Ipsum is simply.", 
+    "h3f6": "Lorem Ipsum is simply.",
+    "h3s1": "Lorem Ipsum is simply.",
+    "h3s2": "Lorem Ipsum is simply.",
+    "h3s3": "Lorem Ipsum is simply.",
+    "h3s4": "Lorem Ipsum is simply.",
+    "h3s5": "Lorem Ipsum is simply.", 
+    "h3s6": "Lorem Ipsum is simply.",
+    "h3t1": "Lorem Ipsum is simply.",
+    "h3t2": "Lorem Ipsum is simply.",
+    "h3t3": "Lorem Ipsum is simply.",
+    "h3t4": "Lorem Ipsum is simply.",
+    "h3t5": "Lorem Ipsum is simply.", 
+    "h3t6": "Lorem Ipsum is simply.",
+    "startNow": "START NOW"
+  },
+  "login": {
+    "h1": "Welcome to",
+    "span": "TOOLIIFY",
+    "p": "get all in one plugins to help you improve your e-commerce and look better.",
+    "username": "Username",
+    "password": "Password",
+    "email": "Email",
+    "first name": "First name",
+    "last name": "Last name",
+    "confirm password": "Confirm Password",
+    "username h": "Enter your username",
+    "password h": "Enter your password",
+    "email h": "Enter your Email",
+    "first name h": "Enter your First name",
+    "last name h": "Enter your Last name",
+    "login": "Login",
+    "don't": "Don’t have an account?",
+    "signup": "Sign Up"
+  },
+  "addWebsites": {
+    "head": "add websites",
+    "h11": "Website One",
+    "h12": "Website Two",
+    "h13": "Website Three",
+    "p": "Lorem Ipsum is simply dummy text of the printing and Lorem Lorem Ipsum is simply Ipsum is simply dummy text of the printing and",
+    "add": "Add"
+  }
+}

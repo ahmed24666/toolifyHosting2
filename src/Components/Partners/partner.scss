@@ -1,0 +1,64 @@
+.Partners {
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    .text {
+      p {
+        font-size: 30px;
+        line-height: 40px;
+        @media (min-width:1500px) {
+          padding: 0px 70px;
+        }
+        @media (max-width:992px) {
+          font-size: 25px;
+          line-height: 35px;
+        }
+        @media (max-width:767px) {
+          font-size: 22px;
+          line-height: 35px;
+        }
+        @media (max-width:500px) {
+          font-size: 22px;
+          line-height: 30px;
+        }
+      }
+    }
+    .images{
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+      column-gap: 25px;
+      row-gap: 35px;
+      justify-content: center;
+      justify-items: center;
+      justify-self: center;
+      
+      .image{
+        display: flex;
+        justify-content: center;
+        overflow: hidden;
+        height: 150px;
+        cursor: pointer;
+        &:hover img{
+          height: 100%;
+          animation: partner 0.5s ease;
+          filter: none;
+
+        }
+        img{
+          height: 270px;
+          object-fit: cover;
+          object-position: center;
+          transition: 0.5s;
+          filter: grayscale(100%);
+        }
+      }
+    }
+}
+
+@keyframes partner {
+   33% {
+    height: 100%;
+  }
+  66% {height: 110%;}
+  100% {height: 100%;}
+}

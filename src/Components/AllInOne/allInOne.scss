@@ -1,0 +1,73 @@
+
+.AllInOne {
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+  
+  .text {
+    p {
+      font-size: 30px;
+      line-height: 40px;
+      @media (min-width:1500px) {
+        padding: 0px 70px;
+      }
+      @media (max-width:992px) {
+        font-size: 25px;
+        line-height: 35px;
+      }
+      @media (max-width:767px) {
+        font-size: 22px;
+        line-height: 35px;
+      }
+      @media (max-width:500px) {
+        font-size: 22px;
+        line-height: 30px;
+      }
+    }
+  }
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 30px;
+    .card {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 25px;
+      flex-direction: column;
+      max-width: 370px;
+      border: double 4px transparent;
+      border-radius: 5px;
+      background-image: linear-gradient(white, white),
+        linear-gradient(#961062, #0e5f74);
+      background-origin: border-box;
+      background-clip: content-box, border-box;
+      transition: 0.5s;
+      &:hover{
+        scale: 1.1;
+      }
+      @media (min-width:1500px) {
+        max-width: 420px;
+      }
+      @media (min-width:1600px) {
+        max-width: 450px;
+      }
+      .icon {
+          padding: 35px 15px 0 15px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+      }
+      h1 {
+        font-size: 25px;
+        padding: 0px 15px;
+      }
+      p {
+        font-size: 25px;
+        font-weight: 300;
+        padding: 15px 15px 35px 15px;
+      }
+    }
+  }
+}
